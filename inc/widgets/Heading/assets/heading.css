@@ -1,0 +1,11 @@
+@media (max-width:767px) {
+
+    .beyrouth-module.heading h2 {
+        font-size: 2em;
+    }
+
+    .beyrouth-module.heading h6 {
+        font-size: .75em;
+    }
+    
+}

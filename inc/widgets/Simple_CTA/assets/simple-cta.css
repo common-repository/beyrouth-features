@@ -1,0 +1,35 @@
+.beyrouth-module.simple-cta .flxbx > div {
+    align-self: center;
+}
+
+.beyrouth-module.simple-cta .flxbx > div:first-child {
+    flex-grow: 1;
+}
+
+.beyrouth-module.simple-cta h2 {
+    margin: 0;
+}
+
+.beyrouth-module.simple-cta h6 {
+    margin: 15px 0 30px 0;
+}
+
+.beyrouth-module.simple-cta .float-simple h6 {
+    margin-bottom: 0;
+}
+
+.beyrouth-module.simple-cta .float-simple .flxbx > div:last-child {
+    padding-left: 30px;
+}
+
+@media (max-width:767px) {
+    
+    .beyrouth-module.simple-cta h2 {
+        font-size: 2em;
+    }
+
+    .beyrouth-module.simple-cta h6 {
+        font-size: .75em;
+    }
+    
+}
